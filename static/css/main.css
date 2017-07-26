@@ -9,3 +9,24 @@ body {
 h1 {
   color:blue;
 }
+
+#users{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+a {
+
+}
+
+#users li {
+  width: 250px;
+}
+
+#users li span {
+
+}
+
+.name {
+
+}
